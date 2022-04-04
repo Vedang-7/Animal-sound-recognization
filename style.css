@@ -1,0 +1,42 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: rgba(68, 57, 59, 0.295);
+}
+.header_div{
+    background: rgba(112, 103, 122, 0.397);
+    color: rgb(252, 241, 241);
+}
+.header_div p{
+    font-family: Cambria ;
+    color: rgb(255, 244, 244);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 30px;
+    width: 110px;
+    letter-spacing: 4px;
+}
+.copyright_footer{
+    text-align: center;
+    position: fixed;
+    color: rgb(39, 30, 30);
+    bottom: 5;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(238, 228, 238);
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(26, 24, 24);
+}
+#mala_kai_mahi{
+    color: black;
+    font-size: 25px;
+}
+img{
+   width: 300px;
+   height: 300px;
+}
